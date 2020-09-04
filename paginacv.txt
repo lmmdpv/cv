@@ -1,0 +1,77 @@
+
+                <!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: LimeGreen;
+}
+</style>
+
+<body>
+<h1>Luis Miguel Martinez de Pinillos Villacorta</h1>
+
+<img src=circulo caramelo.png alt="Yo" width="480" height="640">
+<p>Mi <a href="Luis Miguel Martinez de Pinillos CV.docx">CV</a>.</p>
+<p>Alumno de utec. Me encanta comer postres y tomar café mientras escucho buena música. Les cuento un emprendimiento.
+Junio del 2018, fecha pactada para que recuperemos la propiedad. Luego de 5 meses de alquiler y 18 meses de reducción a casi el 50 % de la renta se podía notar nuestro entusiasmo. Se nos veía más contentos que cuando firmamos la conciliación saliendo de la notaria. Aunque en buenas condiciones, fue un tanto frustrante el no encontrar inodoros, pero si 4 meses de recibos pendientes de agua y luz.
+Para Sacar el negocio adelante tome la decisión de mudarme a una de las habitaciones del hotel, de esta manera tendría un manejo más eficiente de tiempo y recursos. El ojo del amo, engorda al ganado.
+Había que tomar acciones rápidas. En primer lugar, calcular el costo de todo el proyecto, ver la viabilidad, deseabilidad y factibilidad. comenzar la obra civil, reinstalar todas las conexiones eléctricas y verificar el buen flujo de agua. sanear todo he instalar un nuevo enchape en el piso.
+Diseño integral de las habitaciones con un enfoque decorativo lineal que encaja perfecto con la deseabilidad de nuestro público objetivo 
+Levantamiento del predio íntegro y planos de instalaciones, evacuación
+Al no contar con suficiente liquidez para implementar todo el hotel, se trazó una meta objetivo compuesta por 2 fases. La primera que implementaba las habitaciones con los amenities básicos para que puedan ser ocupadas (colchón, tarimas, percheros, cortinas y tv) y vayan generando ingresos mensuales y la segunda que agregue todos los amenities que aumentan el valor agregado de la estadía y de esta manera aumenten nuestro ticket promedio.
+Comenzamos con 1 habitación y a los 7 meses ya habíamos logrado completar la fase 1 de las 14 habitaciones.
+Ahora venía el verdadero reto. Como estábamos brindando los amenities básicos decidimos diferenciarnos con el precio, esa era nuestra ventaja competitiva. Entonces ahora el reto estaba en satisfacer a un segmento más exigente en nuevos canales de venta. 
+Primero había que generar data, para eso se necesitaba tiempo y reservas. Por ende, establecimos una tarifa standard 25% más elevada que nuestra tarifa entandard objetivo (solamente para el tipo de habitación de nuestra cartera que dispone de más inventario) y a la misma le aplicamos un 25% de descuento, como resultado se obtuvo una mayor visibilidad en la plataforma lo que genero un índice de conversión más alto.
+Al siguiente mes ya había información para hacer planes tarifarios mas específicos. Nacionalidad, edad, hora y fecha en las que se concretan la reserva, Tipo de dispositivo en el que se reservó, etc. Con esto empezamos campañas súper específicas para atraer a los clientes deseados como abejas a la miel.
+Por ejemplo: Sabemos que un cliente desde que pisa suelo peruano gasta en promedio 1800 dólares cuando viene de USA y 2500 cuando viene de Europa respectivamente. Al querer atraer a los europeos, sabemos por las reservas anteriores que son propensos a concretar sus reservas al menos con una semana de anticipación y desde dispositivos móviles. Entonces aplicamos una campaña específica segregando variables y dándole un descuento adicional desde dispositivos móviles.
+Para fines del 2019 ya habíamos generado más de 1000000 de soles en volumen de ventas.
+. Aca les dejo una tabla con <b><i><u>frases interesantes:<b/></i></u> </p>
+<h3>Frases célebres y autores</h3>
+<table style="width:100%">
+  <tr>
+    <th>Frase</th>
+    <th>Autor</th> 
+  </tr>
+  <tr>
+    <td>Un hombre que no se alimenta de sus sueños, envejece pronto</td>
+    <td>William Shakespeare</td>
+  </tr>
+  <tr>
+    <td>Si quieres cambiar el mundo, cambiate a ti mismo</td>
+    <td>Mahatma Gandhi</td>
+  </tr>
+  <tr>
+    <td>No es heroe el que carece de miedo, lo es quien lo siente, lo enfrenta y lo supera</td>
+    <td>Roberto Gomez Bolaños</td>
+  </tr>
+  <td>Se tu mismo, los demas puestos estan ocupados</td>
+    <td>Oscar Wilde</td>
+  </tr>
+  <td>Si puedes soñarlo, puedes hacerlo</td>
+    <td>Walt Disney</td>
+  </tr>
+  <td>No cuentes los Dias, haz que los dias cuenten</td>
+    <td>Mohamed Ali</td>
+  </tr>
+  <td>Imposible es una palabra que solo se encuntra en el diccionario de los necios</td>
+    <td>Napoleon Bonaparte</td>
+  </tr>
+  <td>Solo dos palabras, esperar y confiar</td>
+    <td>Alexander Dumas</td>
+  </tr>
+  <td>Fija tu rumbo a una estrella y podras navegar a través de cualquier tormenta</td>
+    <td>Leonardo Da Vinci</td>
+  </tr>
+  <td>Come y bebe que la vida es breve</td>
+    <td>Cándido López</td>
+  </tr>
+</table>
+
+<style>
+table, th, td {
+ border: 1px solid black;
+}
+
+</body>
+</html>
